@@ -2,6 +2,7 @@
 from time import sleep
 from selenium import webdriver
 from logger import logger
+import pytest
 
 #Options
 firefoxOptions = webdriver.FirefoxOptions()
