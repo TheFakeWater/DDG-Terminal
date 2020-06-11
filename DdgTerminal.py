@@ -3,7 +3,8 @@ from time import sleep
 from selenium import webdriver
 from logger import logger
 import pytest
-
+#Just Some Test
+str_test = "lol"
 #Options
 firefoxOptions = webdriver.FirefoxOptions()
 firefoxOptions.headless = False
