@@ -5,6 +5,6 @@
  3. ### [Firefox driver](https://github.com/mozilla/geckodriver/releases)
 ## Installation
  1. ### Clone or download repository
- 2. ### Execute Ddg Terminal Python file
+ 2. ### Execute the main file (DmgTerminal.py)
  ## Contribution
  Feel free to contribute ! :blush:
