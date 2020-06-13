@@ -1,4 +1,4 @@
-# DDG Terminal
+# Search Terminal
 ## Requirements
  1. ### [Selenium](https://selenium-python.readthedocs.io/installation.html) 
  2. ### [Firefox](https://www.mozilla.org/en-US/firefox/new/?redirect_source=github-com)
