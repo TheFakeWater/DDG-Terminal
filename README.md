@@ -5,6 +5,6 @@
  3. ### [Firefox driver](https://github.com/mozilla/geckodriver/releases)
 ## Installation
  1. ### Clone or download repository
- 2. ### Execute the main file (SearchTerminal.py)
+ 2. ### Execute the start.sh file
  ## Contribution
  Feel free to contribute ! :blush:
